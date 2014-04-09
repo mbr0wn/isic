@@ -1,0 +1,94 @@
+1st IEEE Signal Intelligence Challenge
+======================================
+
+      == The Spectrum Menace ==
+
+2014 hat der IEEE Student Branch Karlsruhe etwas neues im Angebot: Den ersten Signal Intelligence Challenge (1_ISIC).
+Zielgruppe sind alle Enthusiasten der drahtlosen Datenübertragung, Verschlüsselungsverfahren, Nachrichtentechnik, Software Defined Radio.... sowie alle, die gerne Rätsel lösen!
+
+Im Laufe des Sommers wird am Communications Engineering Lab des KIT ein Sender stehen, der zehn Nachrichten im Spektrum verstecken wird. Wie und wo die Daten versteckt sind, gilt es herauszufinden -- mit Mitteln der Spektralanalyse, Kryptanalyse, Signalverarbeitung und sicher auch einer Portion Glück.
+
+Um die Suche etwas zu vereinfachen, sind die versteckten Nachrichten alle aus dem Themengebiet "Star Wars". Vielleicht ein Filmzitat, vielleicht ein Poster? Wer weiß!
+
+Teilnehmen können Teams bis maximal 8 Studenten. Wer fragen hat, kann zur Infoveranstaltung am 5. Mai kommen. An diesem Tag wird auch der Sender aktiviert, und läuft bis zum 15. Juni. In diesem Zeitraum haben Teams die Möglichkeit, nach den Signal zu suchen - und Preise zu ergattern! Die Siegerehrung findet ganz pasend auf der diesjährigen Gulaschprogrammiernacht des Chaos Computer Club statt.
+
+
+Wichtige Termine
+----------------
+- 5. Mai: Infoveranstaltung am CEL
+- 5. Mai: Sender wird aktiviert
+- 1. Juni: Anmeldeschluss für Teams
+- 15. Juni: Sender wird abgestellt
+
+
+Anmeldung
+---------
+Teams, die teilnehmen möchten, melden sich bitte bis zum 1. Juni mit einer Liste von Mitgliedern und einem Teamnamen per Email bei <TBD>.
+
+Hinweis: Eine Anmeldung ist bis zum 1. Juni möglich, der Wettbewerb beginnt bereits am 5. Mai. Eine späte Anmeldung kann dazu führen, dass nicht mehr alle Punkte erreicht werden können.
+
+
+Regeln
+------
+Es gilt, insgesamt zehn Nachrichten zu dekodieren. Für jede gefundene Nachricht gibt es bis zu 10 Punkte, insgesamt können also 100 Punkte verdient werden.
+
+Die Juroren können darüber hinaus Bonuspunkte vergeben, z.B. für originelle Lösungsansätze.
+
+Um Punkte zu bekommen, muss man das Signal detektieren, demodulieren und den Klartext liefern. Außerdem muss eine Beschreibung des Signals vorliegen, das, abhängig von der Signalart, die folgenden Elemente umfassen kann:
+- Mittenfrequenz
+- Bandbreite
+- Modulationsart
+- Kanalkodierung
+- Verschlüsselungsverfahren
+
+Wenn Informationen vorliegen, können diese sofort den Juroren mitgeteilt werden. Punkte werden dann sofort gutgeschrieben. Auf der Website des IEEE wird eine laufende Highscoreliste angezeigt, damit man immer erkennt, wo man sich im Vergleich befindet.
+
+Hinweise:
+- Einmal eingesandte Informationen können nicht mehr rückgängig gemacht werden. Es ist aber möglich, Nachträge zu liefern.
+- Die Juroren können im Laufe des Wettbewerbs Tipps geben, um die Signale zu finden. Diese Informationen werden nicht mehr mit Punkten belohnt, und die Gesamtanzahl der möglichen Punkte wird reduziert.
+- Einmal vergebene Punkte können nicht mehr abgezogen werden!
+
+
+Beispiel:
+<snip>
+Am ersten Tag findet das Team "X-Wing Analyzers" ein Signal auf der Frequenz 2.4301 GHz mit Bandbreite 200 kHz, und vermutet ein AM-moduliertes Signal. Diese Ergebnisse werden an die ISIC-Juroren geschickt.
+Am nächsten Tag sehen die "X-Wing Analyzers", dass 2 Punkte gutgeschrieben wurden. Das Team wundert sich, und stellt fest, dass es gar kein AM-Signal war, sondern ein QPSK-Signal, in dem Pakete der Länge 64 bytes übertragen werden, und schickt eine neue Nachricht an die Juroren. Die "X-Wing Analyzers" bekommen einen weiteren Punkt für die Paketlänge gutgeschrieben, behalten aber permanent einen Minuspunkt für die fehlerhafte Vermutung eines AM-Signals.
+
+Das Team "JeDSP-Ritter" dagegen hat sich die Signale ausführlicher angeschaut. Erst am dritten Tag haben sie den Juroren ihren Fund mitgeteilt, nachdem sie zum gleichen Schluss wie die "X-Wing Analyzers" gekommen sind. Sie bekommen die volle Punktzahl.
+
+Nach einer Woche stellen die Juroren fest, dass außer den JeDSP-Rittern noch mehr Teams Schwierigkeiten mit der Modulationsart haben. Sie geben öffentlich bekannt, dass es sich um ein QPSK-Signal handelt. Das Team "Millenium FFTalcon" hatte zwar das gleiche Ergebnis wie die "JeDSP-Ritter", aber hat ihre Daten erst nach der Herausgabe des Tipps abgegeben. Für die Modulationsart können sie daher keine Punkte mehr erhalten.
+</snip>
+
+Es gewinnt das Team, das bis zum 15.6. die meisten Punkte hat. Bei Gleichstand wird bei der Preisverleihung ein Quiz veranstaltet, bis ein Sieger feststeht.
+
+
+Informationen zum Sender bzw. Empfänger
+----------------------------------------
+Der Sender steht im CEL und wird so aufgestellt, dass die Signal vor dem Gebäude empfangen werden können. Eingeschriebene Studenten des KIT und der Hochschule Karlsruhe können auch im Funklabor des CEL arbeiten, solange der laufende Betrieb des Instituts nicht gestört wird.
+
+Gesendet wird auschließlich im 2.4 GHz ISM-Band, innerhalb der in Deutschland gültigen Frequenzen bzw. Sendeleistungen.
+
+Welche Hardware zum Empfang eingesetzt wird, bleibt den Teams überlassen.
+Gegen Pfand ist es möglich, während der Arbeitszeiten des CEL ein USRP B210 am Institut auszuleihen.
+
+Um die Signal zu dekodieren, ist kein Sender notwendig! Es besteht also keine Notwendigkeit, selbst Signale zu erzeugen.
+
+
+Informationen zu den Signalen
+-----------------------------
+Alle Signale beinhalten, in irgendeiner Form, einen Klartext, der in Verbindung zum Thema "Star Wars" steht.
+
+Wir werden diese Klartexte auf verschiedene Arten und Weisen modulieren, sowie die Schwierigkeitsgrade variieren. Um auf die vollen 100 Punkte zu kommen, benötigt man Kenntnisse in den Bereichen Signalverarbeitung, drahtlose Datenübertragung, Kryptoanalyse und Software Radio -- wir empfehlen daher, ein geeignetes Team zu suchen.
+
+
+
+Siegerehrung und Preise
+-----------------------
+
+Die Siegerehrung findet im Laufe der Gulaschprogrammiernacht 2014 statt. Der genaue Zeitpunkt wird noch bekannt gegeben.
+
+Preise:
+
+* B210
+
+
