@@ -15,7 +15,7 @@
    id="svg3061"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="poster.pdf">
+   sodipodi:docname="poster.svg">
   <defs
      id="defs3063" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="404.5"
-     inkscape:cy="471.96525"
+     inkscape:zoom="3.990991"
+     inkscape:cx="667.50885"
+     inkscape:cy="280.01428"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1678"
-     inkscape:window-height="1026"
-     inkscape:window-x="1920"
+     inkscape:window-width="1918"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="0" />
   <metadata
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -523,24 +523,24 @@
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan3183" /></text>
     <image
-       y="715.43372"
-       x="612.00879"
-       id="image3277"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAuJJREFU
-eJztnUGuHCEMBdNR7n/lybb/wpId2wOlVC1HNI3myU9gTPN8Pp/PL0Hy+/QA5N9RPDCKB0bxwCge
-GMUDo3hgFA+M4oFRPDCKB+ZP9YHnecYH8U6vVvvPPJtJ376frbafoppmNvLAKB6Ysm2+6ewmZWwn
-6j9jj5n+q22i8Wz/DxFGHhjFA9OyzTcdG4zaRJaVsdNMPxHV9tGzEVPFC0YeGMUDM2abG3Rmm5nf
-M+/tWOg2Rh4YxQNznW1O2VR1cd3Ji57CyAOjeGDGbHPDXqo5zE6ecGr837RZIw+M4oFp2ebGbvKb
-6hZPpn01/5mZtW7/DxFGHhjFA1O2zW/OpjoL7U5R0ze3dToYeWAUD8xK3ebUVk5nDFH/nVlr571v
-pv4HIw+M4oFZqdvcKEaKfq8uorcX5uY2JYXigWkt0juL6E7J+m05xo0cbAYjD4zigRlbpE8tYKM2
-Hcudyn9Wi6Om2kQYeWAUD8wz9b3NqZM4G7nTqX426jw7dapGHhjFA9OabW7kEt9MLWYjvnkCaGP8
-Rh4YxQMzVrfZsdCp956aPZ7Kxxp5YBQPzPqnPDbqKqsWPXUmvdMm864qRh4YxQNzrACpY0fbM9Up
-q+zMxjMYeWAUD8zKKaGNXfLMs6cKk0591tjIA6N4YNZPCW2cDd8e2xTbdmrkgVE8MCsFSBHbX2uf
-qtvcWIxvYOSBUTwwZdvcyPtlmJq5nVpQb9iskQdG8cCMzTanmLpGLcNUmX11DFMWauSBUTww191c
-2VnIb5wequZmo342MPLAKB6Y626u7NRedqxse+bpIl1+oHhgkDdXnvrS0VQ+1kW6KB6Z665gi5ia
-uVVzp50+t3fYjTwwigfmOtvsWM1U3Wa1zanyeyMPjOKBufrmyoiNOs+pMURtOmfkI4w8MIoH5uqb
-K2/+uvvUGXNzm/8pigfmurpNyWPkgVE8MIoHRvHAKB4YxQOjeGAUD4zigVE8MIoH5i+1DTTwde/R
-uwAAAABJRU5ErkJggg==
+       y="716.8479"
+       x="612.00885"
+       id="image3141"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAudJREFU
+eJztncGO5CAMBTer+f9f7r0yB0t4bRNKXXVsJYSZJz8ZcJzn8/l8/giSv29PQP4fxQOjeGAUD4zi
+gVE8MIoHRvHAKB4YxQOjeGB+sjc8z9M+icr26jqfnXEq81/Hv+H/YOSBUTwwadtc6bK76PfIptbf
+ozlE4++MuTNONGaWiv0aeWAUD0zJNle67CW6Jmt3EVlbzjJtsytGHhjFA9Nmm11UbCdriV1W+RZG
+HhjFA3OdbWbtrjLmysRe5TRGHhjFA9Nmm13ZWjbbzNpgNlPNcjJrNfLAKB6Ykm1OZ2jZBfXEwrzr
+2GgCIw+M4oFJ2+Z0NpVdjHfN563nVjDywCgemKN1m137kxGVjHTnuV1HTl0bAkYeGMUD81RaeXQt
+eKcXwl01mW9ZfYSRB0bxwJSyzbf2HrM2mD0eiu49aek7GHlgFA/MSLbZtfg9OYedMbtwkS6KRyZt
+m9Nv0+xY38Sie9oeozlUMPLAKB6YkXL3rkwvur7yvvnJcvfsc93b/CIUD0xb3eZOe43o3izZd9uz
+FnrDcdUORh4YxQNzNNuMrHXH1iYW1BML8+lWJCtGHhjFA1M6Evo10HATtum90Ony9YlnGXlgFA9M
+WwFSxe6y11ey0K72IDtz28G9zS9F8cCML9K7Mr2K3U2UqUfjn3xJ08gDo3hgjrYpnnhLqOuYZtre
+K2NGGHlgFA/MSOO4SgY4bY/RvdOn/xYgyS8UD0zbkVAXlWKhyvjRNdlnnSxGMvLAKB6Yq79cefIt
+oSyVLNGTdFE8Mtd9uXLiOKariVx0b/b6rr/dyAOjeGCu+3LlxIl5V73oxN6mR0JfiuKBue4TbCsT
+bX4rR1ET7Yg9EvpSFA/M1baZ7be5MvFG0s41Ez0/I4w8MIoH5rovV+6QzdAmOs9PdGHKYuSBUTww
+V3+5crq350qX3U3UZ0YYeWAUD8x1dZuyj5EHRvHAKB4YxQOjeGAUD4zigVE8MIoHRvHAKB6Yf6x/
+LRCiIBGuAAAAAElFTkSuQmCC
 "
        height="111"
        width="111" />
