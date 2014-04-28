@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.99774775"
      inkscape:cx="356.41217"
-     inkscape:cy="194.24559"
+     inkscape:cy="434.78735"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -269,12 +269,13 @@
          id="path60" />
     </g>
     <image
-       y="256.95847"
-       x="112.7435"
-       id="image3151"
-       xlink:href="file:///home/mbant/src/isic/1_ISIC%20-%20The%20Spectrum%20Menace/fosphor.png"
+       sodipodi:absref="/home/flo/todo/funksignalchallenge/isic.git/1_ISIC - The Spectrum Menace/fosphor.png"
+       xlink:href="fosphor.png"
+       width="511.93344"
        height="234.59161"
-       width="511.93344" />
+       id="image3151"
+       x="112.7435"
+       y="256.95847" />
     <g
        transform="matrix(0.5451231,0,0,-0.5451231,412.85655,996.358)"
        id="g3227">
