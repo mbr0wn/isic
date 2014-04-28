@@ -27,13 +27,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.99774775"
      inkscape:cx="667.50885"
-     inkscape:cy="277.88448"
+     inkscape:cy="269.36529"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1678"
-     inkscape:window-height="1026"
-     inkscape:window-x="1920"
+     inkscape:window-width="1918"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="0" />
   <metadata
@@ -529,5 +529,23 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAudJREFU eJztncGO5CAMBTer+f9f7r0yB0t4bRNKXXVsJYSZJz8ZcJzn8/l8/giSv29PQP4fxQOjeGAUD4zi gVE8MIoHRvHAKB4YxQOjeGB+sjc8z9M+icr26jqfnXEq81/Hv+H/YOSBUTwwadtc6bK76PfIptbf ozlE4++MuTNONGaWiv0aeWAUD0zJNle67CW6Jmt3EVlbzjJtsytGHhjFA9Nmm11UbCdriV1W+RZG HhjFA3OdbWbtrjLmysRe5TRGHhjFA9Nmm13ZWjbbzNpgNlPNcjJrNfLAKB6Ykm1OZ2jZBfXEwrzr 2GgCIw+M4oFJ2+Z0NpVdjHfN563nVjDywCgemKN1m137kxGVjHTnuV1HTl0bAkYeGMUD81RaeXQt eKcXwl01mW9ZfYSRB0bxwJSyzbf2HrM2mD0eiu49aek7GHlgFA/MSLbZtfg9OYedMbtwkS6KRyZt m9Nv0+xY38Sie9oeozlUMPLAKB6YkXL3rkwvur7yvvnJcvfsc93b/CIUD0xb3eZOe43o3izZd9uz FnrDcdUORh4YxQNzNNuMrHXH1iYW1BML8+lWJCtGHhjFA1M6Evo10HATtum90Ony9YlnGXlgFA9M WwFSxe6y11ey0K72IDtz28G9zS9F8cCML9K7Mr2K3U2UqUfjn3xJ08gDo3hgjrYpnnhLqOuYZtre K2NGGHlgFA/MSOO4SgY4bY/RvdOn/xYgyS8UD0zbkVAXlWKhyvjRNdlnnSxGMvLAKB6Yq79cefIt oSyVLNGTdFE8Mtd9uXLiOKariVx0b/b6rr/dyAOjeGCu+3LlxIl5V73oxN6mR0JfiuKBue4TbCsT bX4rR1ET7Yg9EvpSFA/M1baZ7be5MvFG0s41Ez0/I4w8MIoH5rovV+6QzdAmOs9PdGHKYuSBUTww V3+5crq350qX3U3UZ0YYeWAUD8x1dZuyj5EHRvHAKB4YxQOjeGAUD4zigVE8MIoHRvHAKB6Yf6x/ LRCiIBGuAAAAAElFTkSuQmCC "
        height="111"
        width="111" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3093"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       transform="matrix(0.7835122,0,0,0.7835122,-634.44254,204.75512)"><flowRegion
+         id="flowRegion3095"><rect
+           id="rect3097"
+           width="549.237"
+           height="241.54405"
+           x="932.0993"
+           y="889.99652" /></flowRegion><flowPara
+         id="flowPara3099"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">Institut für </flowPara><flowPara
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+         id="flowPara3103">theoretische </flowPara><flowPara
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+         id="flowPara3105">Informatik</flowPara><flowPara
+         id="flowPara3101"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">crypto.iti.kit.edu</flowPara></flowRoot>  </g>
 </svg>
